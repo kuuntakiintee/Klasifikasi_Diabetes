@@ -1,5 +1,5 @@
 # Diabetes Classification
-Welcome to the Diabetes Classification Application! This application utilizes a Logistic Regression model to predict the likelihood of diabetes based on various health metrics.
+Welcome to the Diabetes Classification Application! This application utilizes a Support Vector Machine(SVM) to predict the likelihood of diabetes based on various health metrics.
 
 # Dataset
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download
